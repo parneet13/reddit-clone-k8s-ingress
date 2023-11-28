@@ -5,7 +5,7 @@ Below is an overview of the architecture of this Reddit Clone App running on Kub
 
 ## Prerequisites
 Before you begin, you should have the following tools installed on your local machine: 
-
+####
 - Docker
 - Minikube cluster ( Running )
 - kubectl
